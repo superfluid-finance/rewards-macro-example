@@ -1,10 +1,10 @@
 # Superfluid Rewards Distribution UI
 
-A Next.js application that allows users to easily set up streaming rewards distribution using Superfluid's GDA (General Distribution Agreement) protocol and Macro system.
+A Next.js application that allows users to easily set up streaming rewards distribution using Superfluid's Distribution Pools (aka General Distribution Agreement - GDA) and Superfluid Macros for Batching Calls.
 
 ## Overview
 
-This application provides a user-friendly interface for distributing streaming rewards to multiple recipients simultaneously. It leverages Superfluid's Macro system to batch multiple operations into a single transaction, making it gas-efficient and convenient.
+This application provides a user-friendly interface for distributing streaming rewards to multiple recipients simultaneously. It leverages Superfluid's Macros to batch multiple operations into a single transaction, making it user-friendly and gas-efficient.
 
 ## Features
 
