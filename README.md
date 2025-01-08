@@ -60,6 +60,7 @@ yarn dev
 
 - MacroForwarder: `0xFD0268E33111565dE546af2675351A4b1587F89F`
 - RewardsMacro: `0xA315e7EB0a278fac7B3a74DB895f5bf801EAb632`
+- Chain: Optimism Sepolia (Chain ID: 11155420)
 
 ## Technical Details
 
